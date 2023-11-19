@@ -10,4 +10,4 @@ num_index = zero_index + 1
 
 max_value = np.max(x[num_index])
 
-print("Максимальный элемент перед нулевым элементом:", max_value)
+print("Максимальный элемент после нуля:", max_value)
